@@ -1,8 +1,8 @@
 group 'com.zfc'
 version '1.0-SNAPSHOT'
 
-buildscript {
-    repositories {
+//buildscript {
+//    repositories {
         maven {
             name 'aliyun maven'
             url 'http://maven.aliyun.com/nexus/content/groups/public/'
